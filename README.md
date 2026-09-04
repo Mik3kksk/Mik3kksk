@@ -6,7 +6,8 @@
 
 - 🔭 Atualmente trabalho na área de Analista de Sistemas.
 - 🌱 Estou estudando sobre Análise e Dsenvolvimento de Sistemas (IFSP)
-- ⚡ Curto demais uns games
+- ⚡ Game Lover
+- ✍️ Em busca do crescimento profissional!
   
 
 <div align="center">
@@ -30,7 +31,7 @@
 </div>
 
 ## Atualmente Aprendendo: 🤓
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,c)](https://skillicons.dev)(https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,c)](https://skillicons.dev)
 
 <br>
 <h3 align="left">Contate-me:</h3>
