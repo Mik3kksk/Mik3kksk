@@ -8,8 +8,6 @@
 - 🌱 Estou estudando sobre Análise e Dsenvolvimento de Sistemas (IFSP)
 - ⚡ Curto demais uns games
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik3kksk)](https://github.com/allsz/github-readme-stats)
-<!--img height="180em" -->
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
