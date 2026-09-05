@@ -37,7 +37,7 @@
 <h3 align="left">Contate-me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/mik3kksk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okteuz" height="30" width="40" /></a>
-<a href="https://br.linkedin.com/in/miqueias-paix%C3%A3o-163264382?trk=people-guest_people_search-card" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNranIxOZTPGb77SSMWjYvHz7_Kx29f6rYyUK1K7dJrA&s=10" alt="okteuz" height="30" width="40"></a>
+<a href="https://br.linkedin.com/in/miqueias-paix%C3%A3o-163264382?trk=people-guest_people_search-card" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="40"></a>
 </p>
 <br>
 
