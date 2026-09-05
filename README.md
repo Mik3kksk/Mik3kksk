@@ -41,5 +41,6 @@
 </p>
 <br>
 
-![GIF DE TESTE] (https://exemplo.com](https://tenor.com/pt-BR/view/writing-fire-gif-523038869044733220)
+<img width="498" height="281" alt="writing-fire" src="https://github.com/user-attachments/assets/d1cbfb18-9712-46c9-94e3-f269cb605eb3" />
+
 
