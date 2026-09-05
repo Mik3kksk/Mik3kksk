@@ -41,6 +41,7 @@
 </p>
 <br>
 
-<img width="498" height="281" alt="writing-fire" align="center" src="https://github.com/user-attachments/assets/d1cbfb18-9712-46c9-94e3-f269cb605eb3" />
-
+<div align="center">
+  <img width="498" height="281" alt="writing-fire" align="center" src="https://github.com/user-attachments/assets/d1cbfb18-9712-46c9-94e3-f269cb605eb3" />
+</div>
 
