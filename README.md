@@ -31,7 +31,7 @@
 </div>
 
 ## Atualmente Aprendendo: 🤓
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,windows,c,mysql,react,flutter,ai)](https://skillicons.dev)
 
 <br>
 <h3 align="left">Contate-me:</h3>
